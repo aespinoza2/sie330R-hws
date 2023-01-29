@@ -1,0 +1,335 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\series bold
+Agustin Espinoza
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+28 January 2023
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\emph on
+SIE 330R Homework, Spring 2023
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Homework 2 (Chapter 2)
+\end_layout
+
+\begin_layout Standard
+Homework must be readable! Do not just send in numbers or charts.
+ You must explain the homework
+\end_layout
+
+\begin_layout Standard
+answers Preferred to receive homework in Word doc format with any excel
+ or Minitab results pasted
+\end_layout
+
+\begin_layout Standard
+into word document.
+ You may choose to use pdf which is also OK.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Put answers to all questions in one document NOT in separate documents
+\end_layout
+
+\begin_layout Enumerate
+Which of the following is a valid Null Hypothesis?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Ho: 
+\begin_inset Formula $\mu$
+\end_inset
+
+=10
+\end_layout
+
+\begin_layout Enumerate
+Ho: 
+\begin_inset Formula $\mu$
+\end_inset
+
+>5.34
+\end_layout
+
+\begin_layout Enumerate
+Ho: 
+\begin_inset Formula $\bar{x}$
+\end_inset
+
+= 45.7
+\end_layout
+
+\begin_layout Enumerate
+Ho: 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ ≤ 3.5
+\end_layout
+
+\begin_layout Enumerate
+Ho: p>0.7
+\end_layout
+
+\begin_layout Enumerate
+Ho: n=10
+\end_layout
+
+\begin_layout Standard
+A.
+ Ho: 
+\begin_inset Formula $\mu$
+\end_inset
+
+=10 is a valid Null Hypothesis.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+A school district believes that the average score for a particular math
+ class is 85.
+ The null and alternative hypotheses being tested are:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Ho: 
+\begin_inset Formula $\mu$
+\end_inset
+
+ ≥ 85
+\end_layout
+
+\begin_layout Standard
+H1: 
+\begin_inset Formula $\mu$
+\end_inset
+
+ < 85
+\end_layout
+
+\begin_layout Itemize
+In plain English describe the outcome of a Type I Error
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A Type I error is ...
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+In plain English describe the outcome of a Type II Error
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A Type II error is ...
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+In plain English describe a correct decision
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A correct decision is...
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+A particular snack brand is advertised that each package contains 454 grams.
+ It is suspected that the packaging machine is off and on the average each
+ package contains less.
+ A large sample is taken in order to test the hypotheses:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Ho: 
+\begin_inset Formula $\mu$
+\end_inset
+
+ ≥ 454
+\end_layout
+
+\begin_layout Standard
+Ha: 
+\begin_inset Formula $\mu$
+\end_inset
+
+ < 454
+\end_layout
+
+\begin_layout Standard
+The P-value is calculated as 0.09.
+\end_layout
+
+\begin_layout Standard
+Which of the following would be a correct interpretation of the P-value?
+\end_layout
+
+\begin_layout Enumerate
+It can conclusively be stated that the packaging machine is working correctly
+\end_layout
+
+\begin_layout Enumerate
+There is a 9% probability that the exact fill weight average is 454 g.
+\end_layout
+
+\begin_layout Enumerate
+The probability of obtaining a sample mean as extreme as the one observed
+ given that the true mean is exactly 454 g is 0.09, or 9%.
+\end_layout
+
+\begin_layout Enumerate
+There is a 9% probability that the alternative hypothesis is true, that
+ the mean fill rate is less than 454 g.
+\end_layout
+
+\begin_layout Enumerate
+9% of the sample was less than 454 g.
+\end_layout
+
+\begin_layout Standard
+A correct interpretation of P-value...
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The Bureau of Labor Statistics would like an estimate of the average age
+ of workers in a particular field.
+ 50 people are sampled and their ages are recorded.
+ The 95% Confidence Interval is calculated as being {33.0, 39.8} 
+\begin_inset Newline newline
+\end_inset
+
+What is the correct interpretation of this Confidence Interval?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The true average age of workers will fall between 33.0 and 39.8
+\end_layout
+
+\begin_layout Enumerate
+95% of all people in this field are between 33 and 39.8 years old.
+\end_layout
+
+\begin_layout Enumerate
+If 100 samples are taken of this population using this same method and then
+ the Confidence Interval of each are calculated, about 95 of the intervals
+ will contain the true population mean value.
+\end_layout
+
+\begin_layout Enumerate
+There is a 95% probability that the true average is between 33 and 39.8
+\end_layout
+
+\begin_layout Standard
+A correct interpretation of this Confidence Interval (CI)...
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
