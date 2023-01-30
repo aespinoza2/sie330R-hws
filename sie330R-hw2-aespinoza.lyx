@@ -96,7 +96,6 @@ Agustin Espinoza
 \begin_layout Standard
 
 \series bold
-\emph on
 SIE 330R Homework, Spring 2023
 \end_layout
 
@@ -173,12 +172,16 @@ Ho: n=10
 \end_layout
 
 \begin_layout Standard
-A.
- Ho: 
+
+\emph on
+A valid null hypothesis is option A, Ho: 
 \begin_inset Formula $\mu$
 \end_inset
 
-=10 is a valid Null Hypothesis.
+=10.
+ This is becasue option A is the only null hypothesis that includes a mean
+ equal to, greater than or equal to, or less than or equal to a value.
+ 
 \end_layout
 
 \end_deeper
@@ -205,36 +208,37 @@ H1:
  < 85
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
 In plain English describe the outcome of a Type I Error
 \end_layout
 
-\begin_deeper
 \begin_layout Standard
-A Type I error is ...
+
+\emph on
+A Type I error occurs when the null hypothesis is ture and rejected.
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Standard
 In plain English describe the outcome of a Type II Error
 \end_layout
 
-\begin_deeper
 \begin_layout Standard
-A Type II error is ...
+
+\emph on
+A Type II error occurs when the null hypothesis is false and not rejected.
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Standard
 In plain English describe a correct decision
 \end_layout
 
-\begin_deeper
 \begin_layout Standard
-A correct decision is...
+
+\emph on
+A correct decision occurs when the null hypothesis is ture and not rejected,
+ and when it is false and rejected.
 \end_layout
 
-\end_deeper
 \end_deeper
 \begin_layout Enumerate
 A particular snack brand is advertised that each package contains 454 grams.
@@ -291,8 +295,15 @@ There is a 9% probability that the alternative hypothesis is true, that
 \end_layout
 
 \begin_layout Standard
-A correct interpretation of P-value...
- 
+
+\emph on
+Because the P-value is greater than 5%, the correct interpretation of the
+ calculated P-value would be to reject the null hypothesis, i.e., option D
+\emph default
+: there is a 9% probability that the alternative hypothesis is true, that
+ the mean fill rate is less than 454 g.
+\emph on
+.
 \end_layout
 
 \end_deeper
@@ -327,7 +338,13 @@ There is a 95% probability that the true average is between 33 and 39.8
 \end_layout
 
 \begin_layout Standard
-A correct interpretation of this Confidence Interval (CI)...
+
+\emph on
+Because the 95% CI is the probability of the mean falling between the given
+ interval, 33.0 and 39.8, the correct interpretation for this CI is option
+ C, if 100 samples are taken of this population using this same method and
+ then the Confidence Interval of each are calculated, about 95 of the intervals
+ will contain the true population mean value.
 \end_layout
 
 \end_deeper
